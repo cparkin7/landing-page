@@ -1,0 +1,23 @@
+h1, h2, h3 {
+  margin: 0;
+  padding: 0;
+}
+
+.main-header {
+  /* outline: 2px solid red; */
+  /* background-color: #1f2937; */
+}
+
+.nav-bar {
+  outline: 2px solid blue;
+  display: flex;
+}
+
+.header-links {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
+}
+
