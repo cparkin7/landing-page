@@ -108,12 +108,48 @@ img {
   font-weight: 400;
 }
 
-/* Information Section */
+/* Information Section Styles */
+
+.information {
+  /* outline: 2px solid red; */
+  height: 500px;
+  padding: 0px 200px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  /* outline: 2px solid green; */
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.item {
+  /* outline: 3px solid pink;  */
+  text-align: center; 
+  margin: 15px 25px 15px 25px;
+}
+
+.item img {
+  max-width: 175px; 
+  max-height: 175px;
+  border-radius: 15px;
+}
+
+.item h4 {
+  width: 175px;
+  color: #6c6b6b;
+  font-weight: 500;
+  font-size: 18px;
+}
 
 .information h1 {
   font-size: 36px;
   font-weight: bolder;
-  color: #1f2937
+  color: #1f2937;
+  text-align: center;
+  margin: 40px 0px 40px 0px;
 }
 
 
