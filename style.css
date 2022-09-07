@@ -110,4 +110,10 @@ img {
 
 /* Information Section */
 
+.information h1 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: #1f2937
+}
+
 
