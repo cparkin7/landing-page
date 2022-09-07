@@ -1,6 +1,6 @@
 /* General page settings */
 
-h1, h2, h3, p {
+h1, h2, h3, h6, p {
   margin: 0;
 }
 
@@ -102,9 +102,12 @@ img {
   color: #f9faf8;
 }
 
-.content p {
+.content h6 {
   font-size: 18px;
   color: #afadad;
+  font-weight: 400;
 }
+
+/* Information Section */
 
 
