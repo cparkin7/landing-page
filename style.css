@@ -114,10 +114,10 @@ img {
 
 .information {
   /* outline: 2px solid red; */
-  height: 500px;
-  padding: 0px 200px;
+  padding: 50px 200px;
   display: flex;
   flex-direction: column;
+  flex: 1;
 }
 
 .container {
@@ -152,26 +152,40 @@ img {
   font-weight: bolder;
   color: #1f2937;
   text-align: center;
-  margin: 40px 0px 40px 0px;
+  margin: 0px 0px 40px 0px;
 }
 
 /* Quote Section Styles */
 
 .quote {
-  height: 400px;
-  padding: 0px 200px;
+  padding: 100px 200px;
   background-color: #e5e7eb;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  flex: 1;
 }
 
+/* .quote-content {
+  outline: 2px solid green;
+  flex: 1;
+} */
+
 .quote-text {
+  /* outline: 2px solid red; */
   font-size: 36px;
   color: #1f2937;
   font-weight: 100;
   font-style: italic;
+  padding: 0px 105px;
+}
+
+.quote-credit {
+  /* outline: 2px solid blue; */
+  align-self: flex-end;
+  margin-right: 150px; 
+  font-size: 22px;
 }
 
 
