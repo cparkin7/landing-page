@@ -120,7 +120,7 @@ img {
   flex: 1;
 }
 
-.container {
+.info-container {
   /* outline: 2px solid green; */
   flex: 1;
   display: flex;
@@ -166,11 +166,6 @@ img {
   align-items: center;
   flex: 1;
 }
-
-/* .quote-content {
-  outline: 2px solid green;
-  flex: 1;
-} */
 
 .quote-text {
   /* outline: 2px solid red; */
