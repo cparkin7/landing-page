@@ -7,7 +7,7 @@ This is a landing page project designed to test our the principles of flexbox, s
 ## Credit for all photos used: 
 
 - Hero Balloon Photo: Photo by [Aaron Burden](https://unsplash.com/@aaronburden?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
-- Row Balloon Photo 1: Photo by Eyestetix Studio on Unsplash
+- Row Balloon Photo 1: Photo by [Eyestetix Studio] (https://unsplash.com/@eyestetix?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
 - Row Balloon Photo 2: Photo by Galina Nelyubova on Unsplash
 - Row Ballow Photo 3: Photo by Amy Shamblen on Unsplash
 - Row Balloon Photo 4: Photo by Wolfgang H. Schirmer on Unsplash
