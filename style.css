@@ -19,7 +19,7 @@ a {
   text-decoration: none;
 }
 
-/* Header styles */
+/* --- HEADER STYLES --- */
 
 .header-links a {
   color: #c2c1c1;
@@ -110,7 +110,7 @@ img {
   font-weight: 400;
 }
 
-/* Information Section Styles */
+/* --- INFORMATION SECTION STYLES --- */
 
 .information {
   /* outline: 2px solid red; */
@@ -155,7 +155,7 @@ img {
   margin: 0px 0px 40px 0px;
 }
 
-/* Quote Section Styles */
+/* --- QUOTE SECTION STYLES --- */
 
 .quote {
   padding: 100px 200px;
@@ -183,7 +183,7 @@ img {
   font-size: 22px;
 }
 
-/* Call to Action Styles */
+/* --- CALL TO ACTION STYLES --- */
 
 .call-to-action {
   padding: 75px 200px;
@@ -236,4 +236,18 @@ img {
 }
 
 
+/* --- COPYRIGHT SECTION STYLES --- */
 
+.copyright-section {
+  background-color: #1f2937;
+  color: #c1c1c1;
+  text-align: center;
+  padding: 35px 0px;
+  font-size: 18px;
+}
+
+.copyright {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
